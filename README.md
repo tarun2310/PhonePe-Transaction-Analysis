@@ -66,14 +66,14 @@ Tier-2 opportunity (Bhopal: High frequency, low value—target upselling).
 | Tier-2 (e.g., Bhopal) | ₹280          | 35%        | High—acquire merchants |
 
 ### 6. Actionable Recommendations
-User Acquisition: Target regions with high reg-txn gap (e.g., Madhya Pradesh) via referral bonuses—projected +15% volume.
-Product: Bundle P2P + bills for cross-sell (leverage 0.80 corr).
-Expansion: Prioritize Tier-2 merchant onboarding; A/B test campaigns.
-Metrics to Track: Reg-txn correlation quarterly; regional txn uplift.
+- **User Acquisition:** Target regions with high reg-txn gap (e.g., Madhya Pradesh) via referral bonuses—projected +15% volume.
+- **Product:** Bundle P2P + bills for cross-sell (leverage 0.80 corr).
+- **Expansion:** Prioritize Tier-2 merchant onboarding; A/B test campaigns.
+- **Metrics to Track:** Reg-txn correlation quarterly; regional txn uplift.
 
-Key Visuals Explained
-Correlation Heatmap: Highlights 0.80 driver (Section 3).
-Category Pie Chart: P2P/merchant split.
-Regional Heatmap: Usage density.
+### Key Visuals Explained
+- **Correlation Heatmap:** Highlights 0.80 driver (Section 3).
+- **Category Pie Chart:** P2P/merchant split.
+- **Regional Heatmap:** Usage density.
 Trend Line: Reg vs. volume over time.
 All visuals render directly in the notebook below.
