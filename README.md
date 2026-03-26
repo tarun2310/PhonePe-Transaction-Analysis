@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 df = pd.read_csv('phonepe_transactions.csv')  # 10k+ rows
-
+```
 Shape: ~10,500 rows × 12 columns (user_id, txn_date, amount, category, region, etc.).
 
 Cleaning: Handled 2% missing values via median imputation; removed outliers (>3σ amounts).```
